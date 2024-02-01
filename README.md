@@ -2,7 +2,26 @@
     <img src="https://github.com/DevHumbleChris/DevHumbleChris/raw/main/public/mario.gif" alt="mario" />
 </div>
 # 💫 About Me:
-🔭 I’m currently working on Multivendor Web3 Marketplace<br>🌱 I’m currently learning NestJS, Blockchain<br>👯 I’m looking to collaborate on Web3 Projects<br>💬 Ask me about MERN, NEXTJS, NoSQL, Laravel, NodeJS, FastApi<br>📫 How to reach me name1swaleed@gmail.com<br>📄 Know about my experiences https://linkedin.com/in/nameiswaleed
+🔭 I'm a dedicated Project Manager ( but you can consider me a 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 as well :). <br>
+
+With a Bachelor's degree in Computer Science and 6 years of experience, I am passionate about writing codes for Web, Mobile, and Cloud Applications that surpasses the expectations of the world. As a seasoned leader, I love inspiring teams to surpass their limits, mentoring talents, and architecting visionary solutions.<br><br>
+
+In my current role as a Project Manager at IDENBRID, I'm responsible for overseeing complex projects from initiation to completion. I excel at defining project objectives, creating detailed plans, and ensuring seamless execution. <br><br>
+
+My Core Expertise:<br><br>
+
+・ JavaScript (𝟲+ 𝘆𝗲𝗮𝗿𝘀)<br>
+・ Node.js (𝟰+ 𝘆𝗲𝗮𝗿𝘀)<br>
+・ React.js (𝟱+ 𝘆𝗲𝗮𝗿𝘀)<br>
+・ Vue.js (𝟰 𝘆𝗲𝗮𝗿𝘀)<br>
+・ Next.js (𝟰 𝘆𝗲𝗮𝗿𝘀)<br>
+・ TypeScript (𝟯 𝗬𝗲𝗮𝗿𝘀)<br>
+・ AWS Lambda/Amplify (𝟮 𝗬𝗲𝗮𝗿𝘀)<br>
+
+Ready to supercharge your software projects? Let's work together to achieve exceptional results! outcomes!
+📄 Know about my experiences [https://linkedin.com/in/nameiswaleed](https://www.linkedin.com/in/ahmad-the-dev/)
+📫 How to reach me ahmad@nextonprime<br>
+💬 Ask me about MERN, NEXTJS, NoSQL, Laravel, NodeJS, FastApi
 
 
 
