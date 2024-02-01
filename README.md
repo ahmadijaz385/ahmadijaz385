@@ -36,9 +36,3 @@ Ready to supercharge your software projects? Let's work together to achieve exce
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nameiswaleed&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
