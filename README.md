@@ -19,7 +19,7 @@ My Core Expertise:<br>
 ・ AWS Lambda/Amplify (𝟮 𝗬𝗲𝗮𝗿𝘀)<br>
 
 Ready to supercharge your software projects? Let's work together to achieve exceptional results! outcomes!
-📄 Know about my experiences [https://linkedin.com/in/nameiswaleed](https://www.linkedin.com/in/ahmad-the-dev/)
+📄 Know about my experiences [https://www.linkedin.com/in/ahmad-the-dev/](https://www.linkedin.com/in/ahmad-the-dev/)
 📫 How to reach me ahmad@nextonprime<br>
 💬 Ask me about MERN, NEXTJS, NoSQL, Laravel, NodeJS, FastApi
 
