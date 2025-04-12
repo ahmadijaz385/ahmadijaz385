@@ -10,6 +10,7 @@ In my current role as a Project Manager at IDENBRID, I'm responsible for oversee
 
 My Core Expertise:<br>
 
+・ Tech Project Manager (5+ 𝘆𝗲𝗮𝗿𝘀)<br>
 ・ JavaScript (𝟲+ 𝘆𝗲𝗮𝗿𝘀)<br>
 ・ Node.js (𝟰+ 𝘆𝗲𝗮𝗿𝘀)<br>
 ・ React.js (𝟱+ 𝘆𝗲𝗮𝗿𝘀)<br>
