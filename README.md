@@ -6,7 +6,7 @@
 
 With a Bachelor's degree in Computer Science and 7+ years of experience, I am passionate about writing codes for Web, Mobile, and Cloud Applications that surpasses the expectations of the world. As a seasoned leader, I love inspiring teams to surpass their limits, mentoring talents, and architecting visionary solutions.<br>
 
-In my current role as a Project Manager at IDENBRID, I'm responsible for overseeing complex projects from initiation to completion. I excel at defining project objectives, creating detailed plans, and ensuring seamless execution. <br>
+In my current role as a Project Manager at CODIXSYSTEMS, I'm responsible for overseeing complex projects from initiation to completion. I excel at defining project objectives, creating detailed plans, and ensuring seamless execution. <br>
 
 My Core Expertise:<br>
 
